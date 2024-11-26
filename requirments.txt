@@ -1,0 +1,7 @@
+pandas
+numpy
+pygame
+keras
+tensorflow
+opencv-python
+-e .
